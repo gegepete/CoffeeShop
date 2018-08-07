@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=CoffeeShop
+comment1.params=
+comment1.target=CoffeeShop()
+comment2.params=
+comment2.target=CoffeeShop\ getInstance()
+comment3.params=d
+comment3.target=void\ addDrinks(Drinks)
+comment4.params=name
+comment4.target=void\ sellDrink(java.lang.String)
+comment5.params=
+comment5.target=void\ showDrinks()
+comment6.params=
+comment6.target=void\ showBeers()
+comment7.params=name
+comment7.target=void\ deleteDrink(java.lang.String)
+numComments=8
