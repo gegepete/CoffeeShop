@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Drinks
+comment1.params=name\ price\ stock
+comment1.target=Drinks(java.lang.String,\ double,\ int)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=o
+comment3.target=boolean\ equals(java.lang.Object)
+numComments=4
